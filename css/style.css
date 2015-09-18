@@ -20,7 +20,7 @@ p {
 	font-family: helvetica;
 	font-size: 12px;
 	line-height: 15px;
-	margin-bottom: 30px;
+
 
 }
 
@@ -85,7 +85,8 @@ img {
 }
 
 a {
-	margin: 30px 0px 30px 0px;
+	display: inline-block;
+	margin: 20px 0px 20px 0px;
 	background-color: #FF5435;
 	font-family: helvetica;
 	font-size: 20px;
